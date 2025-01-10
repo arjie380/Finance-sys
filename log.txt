@@ -1,0 +1,31 @@
+Raw Input: 
+Raw Input: {"category":"Marketing","amount":50,"date":"2025-01-08"}
+Raw Input: 
+Raw Input: {"category":"Marketing","amount":5200,"date":"2025-01-08"}
+Raw Input: {"category":"HR","amount":5000,"date":"2025-01-03"}
+Raw Input: {"category":"Marketing","amount":30000,"date":"2025-01-03"}
+Raw Input: {"category":"IT","amount":10000,"date":"2025-01-03"}
+Raw Input: {"category":"Marketing","amount":7888,"date":"2025-01-08"}
+Raw Input: {"category":"Operations","amount":1000,"date":"2025-01-14"}
+Raw Input: {"category":"Marketing","amount":5000,"date":"2025-01-17"}
+Database Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'invoicemgsys.expenses' doesn't exist
+Raw Input: {"category":"HR","amount":5000,"date":"2025-01-03"}
+Database Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'invoicemgsys.expenses' doesn't exist
+Raw Input: {"category":"Marketing","amount":5000,"date":"2025-01-15"}
+Database Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'invoicemgsys.expenses' doesn't exist
+Raw Input: {"category":"HR","amount":5000,"date":"2025-01-03"}
+Database Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'invoicemgsys.expenses' doesn't exist
+Raw Input: {"category":"HR","amount":5000,"date":"2025-01-05"}
+Database Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'invoicemgsys.expenses' doesn't exist
+Raw Input: {"category":"HR","amount":5000,"date":"2025-01-04"}
+Database Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'invoicemgsys.expenses' doesn't exist
+Raw Input: {"category":"HR","amount":5000,"date":"2025-01-04"}
+Database Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'invoicemgsys.expenses' doesn't exist
+Raw Input: {"category":"IT","amount":5000,"date":"2025-01-01"}
+Database Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'invoicemgsys.expenses' doesn't exist
+Raw Input: {"category":"HR","amount":5000,"date":"2025-01-04"}
+Database Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'invoicemgsys.expenses' doesn't exist
+Raw Input: {"category":"HR","amount":5000,"date":"2025-01-05"}
+Database Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'invoicemgsys.expenses' doesn't exist
+Raw Input: {"category":"HR","amount":5000,"date":"2025-01-04"}
+Database Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'invoicemgsys.expenses' doesn't exist
